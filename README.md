@@ -1,2 +1,2 @@
 # autofishing
-balık botu
+s balık botu
